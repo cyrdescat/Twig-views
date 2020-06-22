@@ -1,0 +1,17 @@
+{
+    "name": "caryl/composer-packages",
+    "require": {
+        "twig/twig": "^3.0"
+    },
+    "authors": [
+        {
+            "name": "Cyril",
+            "email": "cydescat@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
